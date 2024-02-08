@@ -1,3 +1,25 @@
 
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+G
+src/main/java/Main.java,e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10
+P
+ src/main/java/GamesSearcher.java,c/4/c49edd3399f395de2de8a8569f8daa6fb0e1a04c
+U
+%src/main/java/databases/Database.java,6/6/66e35626b4c0d89dc0faf76fa6b80a309238d5b2
+Z
+*src/main/java/annotations/Annotations.java,0/f/0f0e34f24d23c987590d0966e7fdc84be02dce04
+X
+(src/main/java/annotations/Operation.java,b/b/bb8a29274ef23f1f91a291a2569bbba51df8fbb8
+X
+(src/main/java/annotations/DependsOn.java,2/1/215c2fa3f06cdd3a794358438ff9a8c00e4d009d
+Z
+*src/main/java/annotations/FinalResult.java,4/6/46fce4fe402c76d6563df12851512b8d077047f5
+R
+"src/main/java/SqlQueryBuilder.java,5/7/57da0f2945d9c07b3201824543a134863001b7ab
+T
+$src/main/java/annotations/Input.java,8/9/89fc556477af5fd9ae19dc23d80a7ac9bdffc4c2
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
